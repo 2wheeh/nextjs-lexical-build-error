@@ -114,13 +114,6 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@lexical/headless@^0.14.3":
-  version "0.14.3"
-  resolved "https://registry.npmjs.org/@lexical/headless/-/headless-0.14.3.tgz"
-  integrity sha512-/fNeDHm0WvnlquKgjJDJ0G9Di8TJU6gw0AaLmNLI1Iz+8HvMZ8P6R8OW0l+uRtJMC0TlFt6iLxira6rntQ2K2g==
-  dependencies:
-    lexical "0.14.3"
-
 "@next/env@14.1.4":
   version "14.1.4"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-14.1.4.tgz#432e80651733fbd67230bf262aee28be65252674"
@@ -1728,7 +1721,7 @@ levn@^0.4.1:
     prelude-ls "^1.2.1"
     type-check "~0.4.0"
 
-lexical@0.14.3, lexical@^0.14.3:
+lexical@^0.14.3:
   version "0.14.3"
   resolved "https://registry.npmjs.org/lexical/-/lexical-0.14.3.tgz"
   integrity sha512-LaWSKj6OpvJ+bdfQA2AybEzho0YoWfAdRGkuCtPNYd/uf7IHyoEwCFQsIBvWCQF23saDgE1NONR4uiwl6iaJ9g==
