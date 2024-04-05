@@ -1,4 +1,4 @@
-to reproduce issue:
+to reproduce issue https://github.com/facebook/lexical/issues/5823:
 
 ```bash
 # clone
